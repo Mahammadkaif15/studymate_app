@@ -1,17 +1,53 @@
-# studymate_app
+# StudyMate
 
-A new Flutter project.
+StudyMate is a cross-platform student planner mobile application developed using Flutter for ICT725 Assessment 4.
 
-## Getting Started
+The application is based on the high-fidelity prototype created in Figma during Assessment 3. StudyMate is designed to help university students organise assignments, study tasks, deadlines, classes, and other academic activities in one place.
 
-This project is a starting point for a Flutter application.
+## Implemented Major Functionalities
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Assignment Management
+The Assignment Management feature allows users to:
+- View assignments
+- Add new assignments
+- View assignment details
+- Edit existing assignments
+- Select due dates and priorities
+- Filter assignments by status
+- Mark assignments as completed
+- Delete assignments
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 2. Study Task Management
+The Study Task Management feature allows users to:
+- Create new study tasks
+- Select a task date
+- Select duration, priority, and category
+- Filter tasks by Today, Study, Revision, and Research
+- Mark tasks as completed
+- Track completed, pending, and total tasks
+- View study progress
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Other Prototype Functionalities
+
+The StudyMate prototype also includes other planned functionalities such as:
+- Exam management
+- Timetable
+- Calendar
+- Notifications
+- User profile
+- Settings
+
+These functionalities are represented in the interface but are not fully implemented in the current Assessment 4 version.
+
+## Technology
+
+- Flutter
+- Dart
+- Material Design
+- Figma
+- Android Emulator
+
+## Developer
+
+Mahammad Kaif  
+ICT725 – Assessment 4
